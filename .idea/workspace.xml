@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93019e42-202c-4e92-8b3b-095067eecd73" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/website_generator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website_generator/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website_generator/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website_generator/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website_generator/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -269,6 +254,14 @@
       <option name="presentableId" value="Default" />
       <updated>1510520210493</updated>
     </task>
+    <task id="LOCAL-00001" summary="making of music site">
+      <created>1510677355586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510677355586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -300,6 +293,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="making of music site" />
+    <option name="LAST_COMMIT_MESSAGE" value="making of music site" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
